@@ -1,7 +1,6 @@
 # ⛳ Golf Score Translator
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 > A lightweight JavaScript utility that converts a golf score into its traditional golf terminology — from **Hole-in-one** to **Go Home!**
 
